@@ -1,0 +1,1003 @@
+@media only screen and (max-width: 1199px){
+/*=========Works page==============*/
+.works {
+    margin-top: 1px;
+}
+.element-item {
+    width: 29%;
+}
+.grid {
+    margin-left: 14px;
+}
+
+/*==========contact page==========*/
+.contact-right {
+    margin-left: 0px;
+}
+}/*==1199==*/
+
+@media only screen and (max-width: 1133px){
+/*==Home Page ===*/
+.main-slide-content {
+    margin-left: 139px;
+}
+.btn {
+    font-size: 13px;
+    padding: 10px;
+}
+.contact-area {
+    margin: 22px 0px;
+}
+
+}/*==1133==*/
+
+
+
+@media only screen and (max-width: 991px){
+/*==Home Page ===*/
+.single-slide {
+    height: 395px;
+}
+
+.top-contact i {
+    font-size: 15px;
+    width: 32px;
+    height: 32px;
+    line-height: 18px;
+}
+.top-contact p {
+    font-size: 9px;
+}
+.top-contact h4 {
+    font-size: 9px;
+}
+.sin-service-right h4 {
+    font-size: 16px;
+}
+.sin-service-right p {
+    font-size: 11px;
+}
+.get-service h3 {
+    font-size: 22px;
+}
+.get-service p {
+    font-size: 12px;
+    margin-bottom: 2px;
+}
+.accordion-area .panel-title a {
+    font-size: 19px;
+}
+.faq-right p {
+    font-size: 14px;
+}
+.faq-right ul li {
+	width:100%;
+    font-size: 19px;
+}
+.testimonial-single p {
+    font-size: 15px;
+}
+.testimonial-main {
+    margin-bottom: 16px;
+}
+.contact-area {
+    margin-top: 67px;
+    margin-bottom: 0px;
+}
+#map {
+    height: 326px;
+}
+.our-activity p {
+    font-size: 13px;
+}
+.words-area {
+    padding: 68px 0px;
+}
+.words-main {
+    width: 44%;
+}
+.words-main p {
+    font-size: 19px;
+}
+.btn {
+    font-size: 13px;
+    padding: 10px;
+    width: 158%;
+	margin-bottom:15px;
+}
+/*===== Service page ============*/
+.page-title-area {
+    padding: 30px 0px;
+}
+.title-bradecum h1 {
+    font-size: 30px;
+}
+.title-bradecum span {
+    font-size: 16px;
+}
+.service-side-menu ul li {
+    padding-right: 0px;
+}
+.service-side-menu ul li a:before {
+    font-size: 10px;
+}
+.service-side-menu ul li a {
+    font-size: 10px;
+}
+.cta h4 {
+    font-size: 19px;
+    font-weight: bold;
+}
+.cta p {
+    font-size: 13px;
+}
+.cta a {
+    font-size: 13px;
+}
+/*========Career Page=============*/
+.career-main-area {
+    margin: 38px 0px;
+}
+.job-cta {
+    width: 100%;
+}
+
+/*==========works page=============*/
+.element-item img {
+    height: 63%;
+}
+.element-item {
+    margin-bottom: 1px;
+}
+
+/*==========Contact Page============*/
+.our-contact i {
+    margin-right: 5px;
+}
+.our-contact h4 {
+    font-size: 11px;
+}
+.contact-left p {
+    width: 92%;
+}
+
+/*=====Quote page========*/
+.quote-left {
+    margin-left: 13%;
+    margin-top: 45px;
+    margin-bottom:0px;
+}
+.quote-right img {
+    height: 523px;
+}
+
+/*===fixed Top====*/
+
+}/*==991==*/
+
+@media only screen and (max-width: 829px){
+/*==Home Page ===*/
+.contact-image img {
+    height: 422px;
+}
+
+}/*==829*==*/
+
+@media only screen and (max-width: 767px){
+/*==service Page ===*/
+.service-main {
+    margin: 39px 0px;
+}
+.service-right p {
+    font-size: 15px;
+}
+.finance-consultation h4 {
+    font-size: 21px;
+}
+.finance-top-p {
+    width: 100%;
+}
+.finance-consultation ul li {
+    font-size: 11px;
+}
+.finance-consultation ul li:before {
+    font-size: 11px;
+}
+.service-faq h3 {
+    font-size: 23px;
+	 margin-bottom: 32px;
+}
+.panel-title a {
+    font-size: 16px;
+}
+.service-faq-img img {
+    height: 257px;
+}
+
+/*============Works Page=====================*/
+.element-item {
+    width: 44%;
+}
+
+/*========Contact page=============*/
+.contact-left p {
+    width: 100%;
+    font-size: 17px;
+    margin-top: 16px;
+    margin-bottom: 21px;
+}
+
+/*======quote Page=======*/
+.quote-left h1 {
+    font-size: 29px;
+}
+.quote-left p {
+    margin-top: 20px;
+    margin-bottom: 21px;
+    font-size: 13px;
+}
+.quote-right img {
+    height: 557px;
+}
+
+}/*==767*==*/
+
+@media only screen and (max-width: 768px){
+/*==Home Page ===*/
+
+.single-slide {
+    height: 295px;
+}
+.main-slide-content h1 {
+    font-size: 34px;
+}
+.main-slide-content p {
+    font-size: 14px;
+    margin-top: 26px;
+    margin-bottom: 14px;
+}
+.sin-service-left:after {
+    opacity: .7;
+	background:#216F99;
+}
+.sin-service-left i {
+   color:#fff;
+}
+.get-service {
+    width: 48%;
+}
+.service-we-offer {
+    margin-bottom: 48px;
+}
+.about-top-left {
+    margin-bottom: 35px;
+}
+.about-us-top {
+    margin-bottom: 5px;
+	padding-top: 37px;
+}
+.about-top-left h2 {
+    font-size: 32px;
+}
+.about-top-left p {
+    font-size: 13px;
+    margin: 17px 0px;
+}
+.about-top-right img {
+    width: 100%;
+}
+.about-us {
+    height: 404px;
+}
+.our-activity {
+    width: 17%;
+    margin-left: 3%;
+	text-align:center;
+}
+.our-activity span {
+    font-size: 37px;
+}
+.faq-section {
+    padding: 39px 0px;
+}
+.faq-left h1 {
+    font-size: 25px;
+}
+.accordion-area .panel {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.accordion-area .panel-title a {
+    font-size: 15px;
+}
+.accordion-area .panel-body p {
+    font-size: 12px;
+}
+.glyphicon-minus:before {
+    top: 15%;
+}
+.glyphicon-plus:before {
+    top: 15%;
+}
+.faq-right p {
+    font-size: 13px;
+}
+.faq-right ul li {
+    font-size: 15px;
+}
+.testimonial-area {
+    padding: 40px 0px;
+}
+.testimonial-area h1 {
+    font-size: 32px;
+    margin-bottom: 21px;
+}
+.testimonial-single h4 {
+    font-size: 19px;
+    margin-top: 7px;
+    font-weight: bold;
+	margin-bottom: 0px;
+}
+.testimonial-single span {
+    font-size: 11px;
+}
+.testimonial-single p {
+    font-size: 13px;
+    margin-top: 5px;
+}
+.testimonial-single {
+    margin-bottom: 2px;
+	text-align:center;
+}
+.more-testimonial a {
+    font-size: 20px;
+}
+.words-area {
+    padding: 26px 0px;
+}
+.contact-form h1 {
+    font-size: 31px;
+    margin-bottom: 9px;
+}
+.form-control {
+    height: 37px;
+    margin-bottom: -4px;
+}
+.contact-form {
+    margin-bottom: 10px;
+}
+.contact-area {
+    margin-top: 33px;
+    margin-bottom: 0px;
+}
+.contact-image img {
+    width: 100%;
+    height: 303px;
+}
+#map {
+    height: 240px;
+}
+.footer {
+    background: #2A2D2F;
+    color: #fff;
+    padding-top: 26px;
+}
+.footer-top {
+    padding-bottom: 0px;
+}
+.footer-bottom p {
+    font-size: 8px;
+    margin-bottom: 0px;
+}
+.footer-social ul li a {
+    margin-right: 6px;
+}
+.scrolltop {
+    width: 40px;
+    height: 40px;
+}
+.scrolltop i {
+    font-size: 21px;
+    line-height: 40px;
+}
+.main-slider-area .owl-dots {
+    position: absolute;
+    bottom: 2%;
+    left: 40%;
+}
+.slide-area .owl-dots .owl-dot{
+	visibility:visible;
+}
+.slide-area .owl-next {
+    width: 39px;
+    height: 39px;
+    background: #1e8bc3 !important;
+}
+.slide-area .owl-prev {
+    width: 39px;
+    height: 39px;
+    background: #1e8bc3 !important;
+}
+.owl-next {
+    visibility: visible !important;
+}
+.owl-prev{
+	visibility:visible !important;
+}
+.owl-nav span {
+	color:#fff;
+}
+.owl-next span {
+    line-height: 20px;
+}
+.owl-prev span {
+    line-height: 20px;
+}
+.form-control {
+    font-size: 11px;
+}
+/*=========Story Page===============*/
+.story-main-area {
+    margin: 35px 0px;
+}
+.story-title {
+    width: 61%;
+}
+.story-video-link {
+    top: 37%;
+    left: 45%;
+}
+}/*==768==*/
+
+@media only screen and (max-width: 575px){
+/*==service Page ===*/
+.service-side-menu {
+    width: 86%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.service-side-menu ul li a {
+    font-size: 16px;
+}
+.cta {
+    margin-bottom: 20px;
+	padding: 8%;
+}
+.cta h4 {
+    font-size: 27px;
+}
+.cta p {
+    font-size: 14px;
+}
+.cta a {
+    font-size: 14px;
+}
+.service-right p {
+    font-size: 14px;
+}
+.finance-consultation {
+    width: 86%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.finance-consultation ul li {
+    font-size: 14px;
+}
+.service-faq {
+    margin-top: 39px;
+    width: 85%;
+    margin: 0 auto;
+}
+.panel-title a {
+    font-size: 18px;
+}
+/*==========Story Page============*/
+.stori-single {
+    margin-bottom: 27px;
+}
+.stori-single p {
+    font-size: 15px;
+}
+.story-video p {
+    font-size: 15px;
+}
+/*==============Career Page===========*/
+.work-single {
+    transition:0s;
+    width: 85%;
+    margin: 10px auto;
+	text-align: center;
+}
+.work-single a {
+    font-size: 18px;
+    color: #fff;
+    background: #1e8bc3;
+    padding: 10px 63px;
+}
+.work-single a:before {
+    background: none;
+}
+
+/*========Works Page===========*/
+.works-side-menue {
+    width: 76%;
+    margin: 0 auto;
+}
+.grid {
+    margin-left: 0px;
+}
+
+/*======= Quote Page=========*/
+.quote-left {
+    margin-left: 7%;
+}
+.quote-left .form-group {
+    width: 47%;
+}
+.quote-right img {
+    height: 458px;
+}
+
+}/*==575==*/
+
+@media only screen and (max-width: 576px){
+/*==Home Page ===*/
+.header-top {
+    margin-top: 8px;
+}
+.shop {
+    position: relative;
+    top: 5px;
+    left: -18px;
+}
+.shop p {
+    top: -46px;
+    right: -3px;
+}
+.owl-nav span {
+    color: #fff;
+    line-height: 20px;
+}
+.sin-service-right h4 {
+    font-size: 21px;
+}
+.sin-service-right p {
+    font-size: 13px;
+}
+.single-service {
+    margin-bottom: 4px;
+}
+.about-top-right img {
+    width: 28%;
+}
+.faq-section {
+    width: 69%;
+    margin: 0 auto;
+}
+.accordion-area .panel-title a {
+    font-size: 12px;
+}
+.faq-right h1 {
+    font-size: 27px;
+    margin-top: 0px;
+}
+.faq-right ul li {
+    font-size: 12px;
+}
+.faq-right ul li:before {
+    margin-right: 2px;
+}
+.contact-area {
+    margin-top: -17px;
+}
+.form-control {
+    font-size: 9px;
+}
+.label {
+    font-size: 14px;
+}
+.contact-form h1 {
+	text-align:center;
+    font-size: 31px;
+    margin-top: 17px;
+}
+.footer-top-con h4 {
+    margin-bottom: 1px;
+}
+.footer-top-con {
+    margin-bottom: 22px;
+}
+.footer-top-con p {
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+.footer-social {
+    top: -63%;
+}
+.top-contact {
+    width: 31.33%;
+}
+.main-slide-content p {
+    margin-top: 8px;
+    margin-bottom: 9px;
+}
+.faq-left h1 {
+    font-size: 21px;
+	margin-bottom:12px;
+}
+
+/*==========Contact Page==========*/
+.contact-left h1 {
+    margin-top: 34px;
+}
+}/*===576====*/
+
+@media only screen and (max-width: 575px){
+/*==Home Page ===*/
+.top-contact {
+    width: 29.33%;
+}
+.shop {
+    top: -34px;
+    left: -18px;
+}
+.testimonial-single img {
+	width: 59%;
+    height: 149px;
+}
+.accordion-area .panel-title a {
+    font-size: 14px;
+}
+.faq-right h1 {
+    margin-top: 24px;
+    margin-bottom: 10px;
+}
+.faq-right ul li {
+    font-size: 16px;
+}
+.contact-image img {
+    height: 300px;
+}
+.form-control {
+    font-size: 13px;
+}
+.btn {
+    width: 37%;
+}
+
+/*=========contact Page===========*/
+.contact-right {
+    margin-top: 14px;
+    margin-left: 52px;
+}
+.our-contact {
+    margin-bottom:9px;
+    width: 45%;
+    float: left;
+}
+}/*==575==*/
+
+@media only screen and (max-width: 490px){
+/*==Home Page ===*/
+.single-slide {
+    height: 246px;
+}
+.main-slide-content {
+    width: 72%;
+    margin-left: 69px !important;
+}
+.main-slide-content h1 {
+    font-size: 29px;
+}
+.main-slide-content p {
+    font-size: 13px;
+}
+.words-main p {
+    font-size: 15px;
+}
+
+
+}/*==490==*/
+
+@media only screen and (max-width: 430px){
+/*==Home Page ===*/
+.shop {
+    top: -79px;
+    left: 6px;
+}
+.top-contact {
+    width: 33.33%;
+}
+.top-contact i {
+    font-size: 15px;
+    width: 28px;
+    height: 28px;
+    line-height: 14px;
+}
+.top-contact p {
+    line-height: 21px;
+}
+.top-contact h4 {
+    font-size: 9px;
+}
+.main-slide-content h1 {
+    font-size: 25px;
+}
+.main-slide-content p {
+    font-size: 12px;
+}
+.main-slide-content a {
+    font-size: 15px;
+}
+.single-slide {
+    height: 212px;
+}
+.our-activity span {
+    font-size: 25px;
+}
+.our-activity p {
+    font-size: 11px;
+}
+.finance-consultation ul li {
+    line-height: 22px;
+    margin-bottom: 13px;
+}
+
+/*=========contact page==============*/
+.contact-right {
+    margin-left:0px;
+}
+.our-contact {
+    width: 50%;
+}
+.btn {
+    width: 100%;
+}
+}/*==430==*/
+
+@media only screen and (max-width: 360px){
+/*==Home Page ===*/
+.top-contact i {
+    margin-right: 0px;
+}
+.testimonial-single img {
+    height: 123px;
+}
+.main-slide-content {
+    margin-left: 51px !important;
+}
+.main-slider-area .owl-dots {
+    display: none;
+}
+/*===========story Page================*/
+.story-gallery {
+    margin-bottom: 29px;
+}
+.story-gallery img {
+    height: 129px;
+}
+.title-bradecum h1 {
+    font-size: 27px;
+}
+.story-title {
+    width:100%;
+}
+.story-title p {
+    font-size: 23px;
+}
+.story-video {
+    width: 100%;
+}
+.story-video p {
+    font-size: 12px;
+}
+.stori-single {
+    margin-bottom: 6px;
+}
+.stori-single p {
+    font-size: 14px;
+}
+
+/*==========career Page==============*/
+.work-single {
+    width: 100%;
+}
+.work-single a {
+    padding: 7px 26px;
+}
+
+/*=========Works Page===========*/
+.grid {
+    margin-left: -18px;
+}
+.element-item {
+    width: 100%;
+}
+.element-item p {
+    margin-top: 11px;
+}
+
+/*======contact Page=======*/
+.our-contact i {
+     padding:0px;
+    width: 29px;
+    height: 29px;
+    margin-right:0px;
+    line-height: 27px;
+    padding-left: 8px;
+}
+.our-contact h4 {
+    font-size: 9px;
+}
+.contact-left h1 {
+    font-size: 28px;
+}
+.contact-left p {
+    font-size: 13px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+/*=====Quote Page==========*/
+.quote-left .form-group {
+    width: 100%;
+}
+}/*========360===========*/
+
+@media only screen and (max-width: 328px){
+/*==Home Page ===*/
+.top-contact i {
+    font-size: 9px;
+    width: 17px;
+    height: 17px;
+	padding:0px;
+    line-height: 4px;
+    padding-right: 0px;
+    padding-top: 6px;
+}
+.top-contact p {
+    font-size: 8px;
+	line-height: 18px;
+    padding-bottom: 7px;
+}
+.top-contact h4 {
+    font-size: 9px;
+    margin-left: 16px;
+}
+.service-we-offer h1 {
+    font-size: 26px;
+}
+
+/*=========== Works page==========*/
+.works-side-menue {
+    width: 100%;
+}
+}/*========328===========*/
+
+@media only screen and (max-width: 290px){
+/*==Home Page ===*/
+.top-content-area {
+    display: none;
+}
+.shop {
+    top: -57px;
+    left: 6px;
+}
+.header-top {
+    height: 54px;
+}
+.slide-area .owl-prev {
+    background: none !important;
+	border: none !important;
+
+}
+.slide-area .owl-next {
+    background: none !important;
+	border: none !important;
+
+}
+.main-slide-content h1 {
+    font-size: 22px;
+}
+.main-slide-content p {
+    margin-top: -5px;
+    margin-bottom: 3px;
+}
+.sin-service-right h4 {
+    font-size: 18px;
+}
+.get-service {
+    width: 79%;
+}
+.our-activity p {
+    font-size: 8px;
+    font-weight: bold;
+}
+.about-top-right img {
+    width: 60%;
+}
+.main-slide-content {
+    margin-left: 42px !important;
+}
+.sin-service-right h4 {
+    font-size: 15px;
+}
+.sin-service-right p {
+    font-size: 11px;
+    margin-bottom: 1px;
+}
+.owl-dots {
+    display: none;
+}
+.logo-carousel .owl-next {
+    outline: none;
+    display: none;
+}
+.logo-carousel .owl-prev {
+    outline: none;
+    display: none;
+}
+.faq-right ul li {
+    font-size: 12px;
+}
+.testimonial-area {
+    padding: 12px 0px;
+}
+.testimonial-area h1 {
+    font-size: 24px;
+    margin-bottom: 32px;
+}
+.testimonial-single img {
+    width: 100%;
+}
+.testimonial-single p {
+    font-size: 12px;
+}
+.more-testimonial {
+    margin-top: -14px;
+    margin-bottom: 23px;
+}
+.more-testimonial a {
+    font-size: 16px;
+    border-bottom: 1px solid;
+}
+.words-main {
+    width: 92%;
+}
+.contact-form h1 {
+    font-size: 26px;
+}
+.btn {
+    width: 100%;
+}
+#map {
+    height: 172px;
+}
+.footer-top-con h4 {
+    font-size: 20px;
+}
+.footer-top p a {
+    font-size: 13px;
+}
+
+/*=== Contact Page=====*/
+.contact-right {
+    margin-left: 0px;
+    display: none;
+}
+
+}/*========290===========*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
