@@ -695,7 +695,22 @@
 .words-main p {
     font-size: 15px;
 }
+.slide-area .owl-prev {
+    background: none !important;
+	border: none !important;
 
+}
+.slide-area .owl-next {
+    background: none !important;
+	border: none !important;
+
+}
+.slide-area .owl-next:hover {
+    background: none !important;
+}
+.slide-area .owl-prev:hover {
+    background: none !important;
+}
 
 }/*==490==*/
 
@@ -886,16 +901,7 @@
 .header-top {
     height: 54px;
 }
-.slide-area .owl-prev {
-    background: none !important;
-	border: none !important;
 
-}
-.slide-area .owl-next {
-    background: none !important;
-	border: none !important;
-
-}
 .main-slide-content h1 {
     font-size: 22px;
 }
@@ -987,17 +993,4 @@
 }
 
 }/*========290===========*/
-
-
-
-
-
-
-
-
-
-
-
-
-
 
